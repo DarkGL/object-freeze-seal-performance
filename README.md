@@ -9,6 +9,7 @@ Frozen Object Access: 0.8383 ms
 No Prototype Object Access: 0.7898 ms
 Sealed No Prototype Object Access: 0.8094 ms
 Frozen No Prototype Object Access: 0.7633 ms
+
 Normal Array Access: 0.9792 ms
 Sealed Array Access: 8.8025 ms
 Frozen Array Access: 8.9557 ms
@@ -26,6 +27,7 @@ Frozen Object Access: 0.5586 ms
 No Prototype Object Access: 0.5017 ms
 Sealed No Prototype Object Access: 0.5097 ms
 Frozen No Prototype Object Access: 0.5111 ms
+
 Normal Array Access: 0.6981 ms
 Sealed Array Access: 23.5294 ms
 Frozen Array Access: 0.684 ms
